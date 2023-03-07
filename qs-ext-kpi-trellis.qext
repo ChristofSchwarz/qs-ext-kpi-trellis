@@ -1,0 +1,15 @@
+{
+	"name": "KPI Trellis",
+	"description": "iterate over a dimension of KPIs and render KPI objects for each",
+	"icon": "table",
+	"type": "visualization",
+	"version": "0.1.1",
+	"author": "Christof Schwarz",
+	"homepage": "www.databridge.ch",
+	"keywords": "qlik-sense, visualization",
+	"license": "MIT",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
